@@ -3,7 +3,7 @@ My name is Mento, thank you for checking out my profile!
 
 - 🔭 I’m currently working on getting my degree
 - 🌱 I’m currently learning Java and JavaScript (💀)
-- 📫 Check out my twitter: [Twitter] {Twitter=www.twitter.com/MentoWasTaken}
+- 📫 Check out my twitter: www.twitter.com/MentoWasTaken 
 - ⚡ Fun fact:  NASA revealed very strong evidence that there is intermittent running water on Mars!
 <!--
 **SrMemento/SrMemento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
