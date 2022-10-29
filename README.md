@@ -1,4 +1,4 @@
-Hi there! 👋
+### Hi there! 👋
 My name is Mento, thank you for checking out my profile!
 
 - 🔭 I’m currently working on getting my degree
